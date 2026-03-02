@@ -39,19 +39,31 @@
 
 ---
 
-<h2 align="center">🔥 About Me</h2>
+<h2 align="center">❤️‍🔥 My Passions</h2>
 
 <p align="center">
-  👨‍💻 I love programming and building web experiences <br/>
-  📸 Photography enthusiast <br/>
-  🏋️‍♂️ Consistent training mindset <br/>
-  🎧 Music, drawing and reading
+• 👨‍💻 Programming <br/>
+• 📷 Photography <br/>
+• 🏋️‍♂️ Consistent training
 </p>
 
 ---
 
-<h2 align="center">🎨 Favorite Colors</h2>
+<h2 align="center">🫠 Curious Facts</h2>
 
 <p align="center">
-  ⬛ Black &nbsp; ⬜ White &nbsp; 🟦 Dark Blue &nbsp; 🟥 Red
+• ⬛ Black <br/>
+• ⬜ White <br/>
+• 🟦 Dark Blue <br/>
+• 🟥 Red
+</p>
+
+---
+
+<h2 align="center">🎨 My Hobbies</h2>
+
+<p align="center">
+• 🎧 Listening to music <br/>
+• ✏️ Drawing <br/>
+• 📖 Reading
 </p>
