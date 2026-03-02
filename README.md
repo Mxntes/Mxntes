@@ -28,7 +28,7 @@
 
 ---
 
-<h2 align="center">👨‍💻 Programming Languages</h2>
+<h2 align="center">👨‍💻 My Programming Languages 👨‍💻</h2>
 
 <p align="center">
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
