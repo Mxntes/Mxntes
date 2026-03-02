@@ -42,30 +42,15 @@
 <h2 align="center">❤️‍🔥 My Passions</h2>
 
 <p align="center">
-• 👨‍💻 Programming <br/>
-• 📷 Photography <br/>
-• 🏋️‍♂️ Consistent training
+I’m passionate about programming and web development, and I really enjoy staying active through consistent training. 
+I also love running and spending time at the beach, where I can relax and recharge.
 </p>
 
 ---
 
 <h2 align="center">🫠 Curious Facts</h2>
 
-<h3 aling="center">My favorite colors</h3>
-
 <p align="center">
-• ⬛ Black <br/>
-• ⬜ White <br/>
-• 🟦 Dark Blue <br/>
-• 🟥 Red
-</p>
-
----
-
-<h2 align="center">🎨 My Hobbies</h2>
-
-<p align="center">
-• 🎧 Listening to music <br/>
-• ✏️ Drawing <br/>
-• 📖 Reading
+My favorite colors are black, white, dark blue, and red. 
+They represent my style and the kind of clean, modern designs I like to work with.
 </p>
