@@ -50,6 +50,7 @@
 ---
 
 <h2 align="center">🫠 Curious Facts</h2>
+<h3 aling="center">My favorite colors</h3>
 
 <p align="center">
 • ⬛ Black <br/>
