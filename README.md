@@ -51,6 +51,5 @@ I also love running and spending time at the beach, where I can relax and rechar
 <h2 align="center">🫠 Curious Facts</h2>
 
 <p align="center">
-My favorite colors are black, white, dark blue, and red. 
-They represent my style and the kind of clean, modern designs I like to work with.
+My favorite colors are black⬛, white⬜, dark blue🟦, and red🟥. 
 </p>
