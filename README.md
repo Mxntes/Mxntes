@@ -42,8 +42,8 @@
 <h2 align="center">❤️‍🔥 My Passions</h2>
 
 <p align="center">
-I’m passionate about programming and web development, and I really enjoy staying active through consistent training. 
-I also love running and spending time at the beach, where I can relax and recharge.
+I’m passionate about programming 👨‍💻 and web development 🌐, and I really enjoy staying active through consistent training 🏋️‍♂️. 
+I also love running 🏃‍♂️. 
 </p>
 
 ---
@@ -51,5 +51,6 @@ I also love running and spending time at the beach, where I can relax and rechar
 <h2 align="center">🫠 Curious Facts</h2>
 
 <p align="center">
-My favorite colors are black⬛, white⬜, dark blue🟦, and red🟥. 
+My favorite colors are black ⬛, white ⬜, dark blue 🟦, and red 🟥.
+  and spending time at the beach, where I can relax and recharge 🏖️.
 </p>
